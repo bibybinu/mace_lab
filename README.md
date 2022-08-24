@@ -13,3 +13,4 @@
 * Semester 3
   * Android Lab
   * Data Science Lab
+  * Mini Project
