@@ -5,6 +5,6 @@
   <li>Implement Activity Lifecycle</li>
   <li>Demonstrate Shared preferences</li>
   <li>Implement Implicit Intent</li>
-  <li>Implement UI Control in MainActivity.java</li>
+  <li>Implement UI Control in MainActivity.java : Linear Layout</li>
 </ol>
   
