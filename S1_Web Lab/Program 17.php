@@ -1,3 +1,5 @@
+<!-- comment 2 -->
+
 <?php
 $conn= mysqli_connect('localhost', 'root', '', 'railways');
 if (!$conn) {

@@ -1,3 +1,5 @@
+
+<!-- comment 1 -->
 <?php
 $conn= mysqli_connect('localhost', 'root', '', 'art');
 if (!$conn) {
